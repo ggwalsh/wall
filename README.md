@@ -1,12 +1,12 @@
 # Wall
 
-Sketch a SHIELD WALL containment. Get a kit — panels, corners, doors, exhaust.
+Sketch a containment. Get a SHIELD WALL kit — panels, corners, doors, exhaust.
 
-Same source [geoffwalsh.xyz](https://geoffwalsh.xyz/tools/wall) runs.
+This is from the abatement years: a crew needed a count before the truck left, not a drawing that lived in someone's head.
+
+Runs on [geoffwalsh.xyz](https://geoffwalsh.xyz/tools/wall).
 
 ```bash
 npm install
 npm run dev
 ```
-
-Opens on http://localhost:5173
